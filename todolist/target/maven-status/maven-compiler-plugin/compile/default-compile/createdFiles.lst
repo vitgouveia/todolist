@@ -1,0 +1,10 @@
+br\com\vitoria\todolist\task\TaskContoller.class
+br\com\vitoria\todolist\task\TaskModel.class
+br\com\vitoria\todolist\ultils\Utils.class
+br\com\vitoria\todolist\user\IUserRepository.class
+br\com\vitoria\todolist\controller\UserController.class
+br\com\vitoria\todolist\errors\ExceptionHandlerController.class
+br\com\vitoria\todolist\filter\FilterTaskAuth.class
+br\com\vitoria\todolist\TodolistApplication.class
+br\com\vitoria\todolist\user\UserModel.class
+br\com\vitoria\todolist\task\ITaskRepository.class
